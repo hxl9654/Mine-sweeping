@@ -1,0 +1,2 @@
+E:\vs\Mine-sweeping\Mine-sweeping\bin\Debug\WindowsFormsApplication6.exe.config
+E:\OneDrive\Dropbox\code\C#\Mine-sweeping\Mine-sweeping\bin\Debug\WindowsFormsApplication6.exe.config
